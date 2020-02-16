@@ -1,0 +1,49 @@
+{
+    "title" : " Hello I`m Mohammadreza",
+    "subtitle" : "UI DESINER ",
+    "links" : { 
+            "instagram" : "http://instagram.com/mohammadreza_rh" , 
+            "github" : "https://github.com/iammohammadreza", 
+            "linkedin":"https://ir.linkedin.com/in/mohammadreza-ruholamin-273593198"
+            
+    },
+    "sections" : [
+        {
+            "title":"About",
+            "items":[{
+                "type": "p",
+                "content" : "ورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد. در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد."
+            }]
+        },
+        {
+            "title":"Skills",
+            "items":[
+                {
+                "type": "card",
+                "content" : {
+                    "img":"/images/CSS3.png",
+                    "title":"CSS3"
+                            }
+            },
+            {
+                "type": "card",
+                "content" : {
+                    "img":"/images/html5.png",
+                    "title":"HTML5"
+                }
+            },
+            {
+                "type": "card",
+                "content" : {
+                    "img":"/images/react.png",
+                    "title":"React"
+                }
+            }
+        ]
+        }
+    ],
+    "icons":{
+        "down":"images/down.png"
+    }
+
+}
