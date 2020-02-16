@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/first-resume/static/css/main.46375d55.chunk.css",
+    "main.js": "/first-resume/static/js/main.e22901b3.chunk.js",
+    "main.js.map": "/first-resume/static/js/main.e22901b3.chunk.js.map",
+    "runtime-main.js": "/first-resume/static/js/runtime-main.3f6efa79.js",
+    "runtime-main.js.map": "/first-resume/static/js/runtime-main.3f6efa79.js.map",
+    "static/css/2.3ef619b7.chunk.css": "/first-resume/static/css/2.3ef619b7.chunk.css",
+    "static/js/2.eb56c7ec.chunk.js": "/first-resume/static/js/2.eb56c7ec.chunk.js",
+    "static/js/2.eb56c7ec.chunk.js.map": "/first-resume/static/js/2.eb56c7ec.chunk.js.map",
+    "index.html": "/first-resume/index.html",
+    "precache-manifest.8411b36f8d33519f8714242a1f62fb36.js": "/first-resume/precache-manifest.8411b36f8d33519f8714242a1f62fb36.js",
+    "service-worker.js": "/first-resume/service-worker.js",
+    "static/css/2.3ef619b7.chunk.css.map": "/first-resume/static/css/2.3ef619b7.chunk.css.map",
+    "static/css/main.46375d55.chunk.css.map": "/first-resume/static/css/main.46375d55.chunk.css.map",
+    "static/js/2.eb56c7ec.chunk.js.LICENSE.txt": "/first-resume/static/js/2.eb56c7ec.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.css": "/first-resume/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f6efa79.js",
+    "static/css/2.3ef619b7.chunk.css",
+    "static/js/2.eb56c7ec.chunk.js",
+    "static/css/main.46375d55.chunk.css",
+    "static/js/main.e22901b3.chunk.js"
+  ]
+}
